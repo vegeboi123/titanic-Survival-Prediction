@@ -1,4 +1,4 @@
-# Titanic Survival Prediction Project
+# Titanic Survival Prediction 
 
 ## Overview
 This project aims to predict the survival of passengers on the Titanic based on various features such as age, gender, and ticket class. The dataset includes training and test data, with ground truth provided in the gender_submission.csv file.
